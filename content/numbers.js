@@ -11,3 +11,6 @@ console.log(Number.isNaN(num1)); // false
 // Parse
 console.log(parseFloat(num1)); // 1.12332
 console.log(parseInt(num1)); // 1
+
+// Infinity Value
+console.log(100/0);
